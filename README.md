@@ -1,7 +1,9 @@
 ##  Álvaro Santana 👋
 💻 Desenvolvedor Front-end | 📚 Professor.
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = alvarosannas )] (https://github.com/alvarosannas/alvarosannas)
+### Metas para 2021 👍
+* Aprender Inglês.
+* Desenvolver um game mobile.
 
 
 
